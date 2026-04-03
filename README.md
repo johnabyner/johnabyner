@@ -52,5 +52,9 @@ In my academic journey at IFRJ, I've built a strong logical foundation with lang
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnabyner&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnabyner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="John's GitHub Stats" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnabyner&layout=compact&theme=dracula&langs_count=6" alt="John's Top Languages" />
+
 </div>
