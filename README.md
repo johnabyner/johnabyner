@@ -47,7 +47,7 @@ In my academic journey at IFRJ, I've built a strong logical foundation with lang
 
 ### 📫 Let's Connect!
 - **LinkedIn:** [in/johnabyner](https://www.linkedin.com/in/johnabyner/)
-- **Email:** [johnabyner00@gmail.com](mailto:johnabyner00@gmail.com)
+- **Email:** [johnabyner00@gmail.com](mailto:johnabyner12@gmail.com)
 
 <br>
 
