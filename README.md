@@ -38,13 +38,6 @@ In my academic journey at IFRJ, I've built a strong logical foundation with lang
 
 ---
 
-### 📂 Featured Projects
-
-* **[Jocks-Store-Showcase](https://github.com/johnabyner/jocks-store-showcase):** Interactive e-commerce vitrine with fluid animations, responsiveness, and advanced DOM manipulation.
-* **[Supertrunfo-Pokemon](https://github.com/johnabyner/Supertrunfo-Pokemon):** Terminal-based card game developed in .NET 8.0, focusing on business logic and programming fundamentals.
-
----
-
 ### 📫 Let's Connect!
 - **LinkedIn:** [in/johnabyner](https://www.linkedin.com/in/johnabyner/)
 - **Email:** [johnabyner12@gmail.com](mailto:johnabyner12@gmail.com)
