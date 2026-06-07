@@ -24,10 +24,10 @@ Focusing on building scalable backend APIs and responsive web interfaces. Combin
 
 **Languages & Core Web**
 * JavaScript (ES6+) | TypeScript | HTML5 | CSS3
-* Academic foundation: C | C# | Python
+* Academic foundation: C | C# | Java | Python 
 
 **Frameworks & Runtimes**
-* Node.js | Express.js | React | Electron
+* Node.js | Express.js | React
 
 **Databases**
 * PostgreSQL (SQL) | MongoDB (NoSQL)
