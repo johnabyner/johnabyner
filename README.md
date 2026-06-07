@@ -2,7 +2,6 @@
 
 **Full Stack Developer | Node.js | JavaScript | React**
 
-Based in Rio de Janeiro, Brazil  
 Software Engineering Student at IFRJ (Technical Informatics)  
 Linux Enthusiast | Arch Linux & Terminal Workflow
 
@@ -24,10 +23,10 @@ Focusing on building scalable backend APIs and responsive web interfaces. Combin
 
 **Languages & Core Web**
 * JavaScript (ES6+) | TypeScript | HTML5 | CSS3
-* Academic foundation: C | C# | Java | Python 
+* Academic foundation: C | C# | Python
 
 **Frameworks & Runtimes**
-* Node.js | Express.js | React
+* Node.js | Express.js | React | Electron
 
 **Databases**
 * PostgreSQL (SQL) | MongoDB (NoSQL)
@@ -38,7 +37,7 @@ Focusing on building scalable backend APIs and responsive web interfaces. Combin
 ---
 
 ### Tech Stack Badges
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=flat&logo=postgresql&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=flat&logo=postgresql&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
 ---
 
